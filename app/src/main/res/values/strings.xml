@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">SQLiteToDo</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="insert_the_name_of_the_todo">Insert the name of the ToDo</string>
+  <string name="insert_the_description_here">Insert the description here</string>
+  <string name="todo_name_label">Name</string>
+  <string name="todo_description_label">Description</string>
+  <string name="todo_duedate_label">Due Date</string>
+  <string name="save">SAVE</string>
+  <string name="delete">DELETE</string>
+</resources>
